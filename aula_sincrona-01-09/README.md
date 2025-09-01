@@ -1,4 +1,4 @@
-# Aula ao Vivo – Refatoração de Código (Desenvolvimento de Sistemas II)
+# Aula síncrona – Refatoração de Código
 
 
 Material de apoio para a **Aula 2 – Refatoração**
