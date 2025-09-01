@@ -181,8 +181,6 @@ class Emprestimo {
 }
 
 Emprestimo o-- PoliticaMulta : usa
-PoliticaMulta <|.. PoliticaMultaComum
-PoliticaMulta <|.. PoliticaMultaVIP
 @enduml
 ```
 
